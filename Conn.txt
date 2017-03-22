@@ -1,0 +1,4 @@
+jdbc:mysql://localhost:3307/mtechkonve
+root
+mmsPNMonl1n3
+
